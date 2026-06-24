@@ -72,7 +72,7 @@ Dataset de vendas globais com cobertura de 2011 a 2015, originalmente utilizado 
 
 ## 🔗 Acesse o relatório
 
-[Acesse o dashboard](#)
+[Acesse o dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjk3NjMzOGQtMjJlNy00MDE3LTgwZjEtMjc2NmIyMjU2YTA1IiwidCI6ImIyZTE2Mjk3LTJlZDYtNDFiOC1iODIyLWE5NTRlOTViZDJmMCIsImMiOjR9)
 
 ---
 
