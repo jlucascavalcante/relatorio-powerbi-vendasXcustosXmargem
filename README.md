@@ -2,6 +2,10 @@
 
 Dashboard financeiro-operacional com foco em rentabilidade, custo logístico e comportamento da margem de lucro ao longo do tempo — permitindo identificar quais mercados, categorias e modos de envio impactam mais o resultado do negócio.
 
+## 📸 Preview do Dashboard
+
+![Preview do Dashboard](preview5.png)
+
 ---
 
 ## 🎯 Problema de negócio
